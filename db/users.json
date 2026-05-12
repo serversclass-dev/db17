@@ -20,5 +20,33 @@
       "chemistry"
     ],
     "server_num": 17
+  },
+  "Shahad": {
+    "username": "Shahad",
+    "password": "j3R$Y9656U5mn!f",
+    "student_type": "علمي",
+    "telegram_user_id": "5933805963",
+    "telegram_username": "shahad_elm",
+    "telegram_first_name": "shahad",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_69.jpg",
+    "session_id": "c8cd758a-88c6-4e86-aa6d-cdd4b33c3286",
+    "created_at": "2026-05-11T23:53:33.422799",
+    "verified": true,
+    "last_login": "2026-05-11T23:54:41.185380",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 17
   }
 }
